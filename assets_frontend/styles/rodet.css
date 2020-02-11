@@ -1,0 +1,160 @@
+  .room_col {
+    margin-top: 100px;
+  }
+  .search_bar {
+  	padding-top: 135px;
+  	padding-bottom: 25px;
+  }
+  .ner {
+  	width: 100%;
+  	margin: auto;
+  	margin-top: 20px;
+  }
+  .comn {
+  	width: 100%;
+  }
+  .text-center
+  {
+  	color: #d6baa0;
+  	font-family: inherit;
+  	font-weight: 400;
+  }
+  .comn img {
+  	border: solid 5px #eaeaea;
+  	border-radius: 5px 5px 0 0;
+  	width: 100%;
+  	height: 400px;
+  }
+  .tbl {
+  	margin-top: 20px;
+    margin-bottom: 20px;
+    display: inline-block;
+  }
+  .tbl img {
+  	border: solid 5px #eaeaea;
+  	border-radius: 1px;  	
+  	width: 90px;
+  	height: 80px;
+  }
+  .ggb {
+  	list-style: none;
+  	float: left;
+  	padding-right:15px;
+  }
+  .intro_content
+  {
+  	width: 100%;
+  }
+  .intro_content2
+  {
+    width: 85%;
+  }
+  .clickable 
+  {
+  	cursor: pointer; 
+  }
+  .desc p
+  {
+    color: #000;
+    margin-bottom: 20px;
+  }
+  .control-label
+  {
+    display: flex;
+  }
+  .day
+  {
+    color: black;
+  }
+  .prc
+  {
+  font-family: 'Monstserrat', serif;
+  font-weight: 550;
+  color: #333333;
+  line-height: 1.25;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-shadow: rgba(0,0,0,.01) 0 0 1px;
+  text-shadow: rgba(0,0,0,.01) 0 0 1px;
+  }
+  .moc
+  {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .mdl{
+    padding:30px;
+  }
+  .mdl h2
+  {
+    margin :10px 0 30px 0;
+  }
+  .mdr
+  {
+    border-left: 1px solid;
+    position: relative;
+  }
+  .mgb
+  {
+    max-width: 180px;
+    border: 1px solid #d6d4d4;
+    padding: 5px;
+    float: left;
+    margin-right: 30px;
+  }
+  .mpi
+  {
+    display: inline-block;
+  }
+  .prodname
+  {
+    font-weight: 700;
+    margin-bottom: 20px;
+    border-bottom: 1px solid;
+  }
+  .sub
+  {
+    margin-bottom: 5px;
+  }
+  .st
+  {
+    display: table;
+    padding: 5px 0;
+  }
+  .payinf
+  {
+    padding-top: 20px;
+    padding-bottom: 65px;
+  }
+  .paytit
+  {
+    padding: 10px 0;
+    margin-bottom: 10px 0;
+    border-bottom: 1px solid;
+  }
+  .tutup
+  {
+    position: absolute;
+    right: 20px;
+    top: 10px;
+    width: 25px;
+    height: 25px;
+    cursor: pointer;
+    color: #333;
+    z-index: 2;
+  }
+  .tutup:before
+  {
+    content: "\f057";
+    display: block;
+    font-family: fontawesome;
+    font-size: 25px;
+    line-height: 25px;
+  }
+  .lee
+  {
+    position: static;
+  }
+  .boti
+  {
+    padding: 10px 0;
+  }
